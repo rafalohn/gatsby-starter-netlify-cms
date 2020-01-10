@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Teste do Lohn
+title: Novo Teste
 date: 2020-01-09T20:33:36.765Z
-description: Este é um teste!
+description: Este é outro teste!
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
